@@ -5,13 +5,15 @@
 	"keywords": [
 		"telegram",
 		"bot",
+		"php",
+		"php telegram bot",
 		"pinned message"
 	],
 	"license": "MIT",
-	"homepage": "https://github.com/webmasterskaya/tbc-remove-pinned-messages",
+	"homepage": "https://git.webmasterskaya.xyz/tbc/tbc-remove-pinned-messages",
 	"support": {
-		"issues": "https://github.com/webmasterskaya/tbc-remove-pinned-messages/issues",
-		"source": "https://github.com/webmasterskaya/tbc-remove-pinned-messages"
+		"issues": "https://git.webmasterskaya.xyz/tbc/tbc-remove-pinned-messages/issues",
+		"source": "https://git.webmasterskaya.xyz/tbc/tbc-remove-pinned-messages"
 	},
 	"authors": [
 		{
@@ -22,8 +24,8 @@
 		}
 	],
 	"require": {
-		"php": "^7.4|^8.0",
-		"longman/telegram-bot": "^0.79.0"
+		"php": "^7.3|^8.0",
+		"longman/telegram-bot": "^0.82.0"
 	},
 	"autoload": {
 		"psr-4": {
